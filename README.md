@@ -1,17 +1,4 @@
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
-
-[Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
-
-## Preview
-
-[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-freelancer/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
+# MLH Global Hack Week: Cloud
 
 ## Download and Installation
 
